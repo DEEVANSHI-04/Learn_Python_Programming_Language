@@ -1,4 +1,4 @@
-# Learn_Python_Programming_Language in just 2 hrs.
+# Learn Python Programming Language in just 2 hrs.
 **There are 16 programs to explain the various concepts in python programming**
 - Syntex 
 - Loop
